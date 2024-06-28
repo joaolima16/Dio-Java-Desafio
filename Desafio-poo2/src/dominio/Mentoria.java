@@ -2,8 +2,6 @@ package dominio;
 
 import java.time.LocalDate;
 
-import javax.xml.crypto.dsig.XMLObject;
-
 public class Mentoria extends Conteudo {
     private String titulo;
     private String descricao;
